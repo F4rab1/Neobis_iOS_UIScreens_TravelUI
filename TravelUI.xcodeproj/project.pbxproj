@@ -13,6 +13,7 @@
 		D363E2B92A0A399800CE8016 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D363E2B72A0A399800CE8016 /* Main.storyboard */; };
 		D363E2BB2A0A399A00CE8016 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D363E2BA2A0A399A00CE8016 /* Assets.xcassets */; };
 		D363E2BE2A0A399A00CE8016 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D363E2BC2A0A399A00CE8016 /* LaunchScreen.storyboard */; };
+		D363E2C82A0A973900CE8016 /* CityCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D363E2C72A0A973900CE8016 /* CityCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D363E2BA2A0A399A00CE8016 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D363E2BD2A0A399A00CE8016 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D363E2BF2A0A399A00CE8016 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D363E2C72A0A973900CE8016 /* CityCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D363E2B12A0A399800CE8016 /* AppDelegate.swift */,
 				D363E2B32A0A399800CE8016 /* SceneDelegate.swift */,
 				D363E2B52A0A399800CE8016 /* ViewController.swift */,
+				D363E2C72A0A973900CE8016 /* CityCell.swift */,
 				D363E2B72A0A399800CE8016 /* Main.storyboard */,
 				D363E2BA2A0A399A00CE8016 /* Assets.xcassets */,
 				D363E2BC2A0A399A00CE8016 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				D363E2B62A0A399800CE8016 /* ViewController.swift in Sources */,
 				D363E2B22A0A399800CE8016 /* AppDelegate.swift in Sources */,
+				D363E2C82A0A973900CE8016 /* CityCell.swift in Sources */,
 				D363E2B42A0A399800CE8016 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
